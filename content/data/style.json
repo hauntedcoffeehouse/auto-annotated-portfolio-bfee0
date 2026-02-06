@@ -1,6 +1,6 @@
 {
     "type": "ThemeStyle",
-    "light": "#ffffff",
+    "light": "#f5f8ff",
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
@@ -12,5 +12,5 @@
     "onComplementary": "#FBFFF2",
     "fontBody": "\"DM Mono\", monospace",
     "headingWeight": "400",
-    "headingCase": "uppercase"
+    "headingCase": "capitalize"
 }
